@@ -1,4 +1,4 @@
-# URL Shortener API
+# ShortLink Service API
 
 Backend service that converts long URLs into short unique links and redirects users efficiently.  
 Includes link expiration, click tracking, and basic usage statistics.
